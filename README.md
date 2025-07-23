@@ -21,7 +21,7 @@ This repository contains a Power BI template (`.pbit`) that provides an **intera
 ## 📥 How to Use
 
 1. Download the `.pbit` file:  
-   [Click here to download](https://github.com/yourusername/ipl-powerbi-analysis/raw/main/IPL%20ANALYSIS.pbit)
+   [Click here to download](https://github.com/MadhalasaSJ/IPL_ANALYSIS/blob/main/IPL%20ANALYSIS.pbit)
 
 2. Open it in **Power BI Desktop** (latest version recommended)
 
