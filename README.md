@@ -55,5 +55,5 @@ This repository contains a Power BI template (`.pbit`) that provides an **intera
 
 ## 🙌 Author
 
-**Madhalasa S.J.**  
+**Madhalasa S.J**  
 Data & AI Enthusiast | Power BI Developer | ML Engineer  
